@@ -8,7 +8,7 @@ public class SpringExamApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringExamApplication.class, args);
-		int i=0;
+		int i = 0;
 	}
 
 }
